@@ -10,7 +10,7 @@ My name is Olwethu Tshingo, a 21 year old student, currently studying 3rd year t
 [![My Skills](https://skillicons.dev/icons?i=java,python,raspberrypi)](https://skillicons.dev)
 
 ### Database
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,derby,sqlite)](https://skillicons.dev)
 
 ## The IDEs/ tools I've used:
 [![My Skills](https://skillicons.dev/icons?i=idea,pycharm,vscode,netbeans)](https://skillicons.dev)
