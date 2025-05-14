@@ -16,7 +16,7 @@ My name is Olwethu Tshingo, a 21 year old student, currently studying 3rd year t
 [![My Skills](https://skillicons.dev/icons?i=idea,pycharm,vscode,netbeans)](https://skillicons.dev)
 
 ## Contact details:
-- Email: tshingoo@gmail.com(https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)
+- Email: tshingoo@gmail.com [![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)
 - Contact Number: 060 357 0068
 
 ### Follow me on these social media platforms:
