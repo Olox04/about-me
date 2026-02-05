@@ -17,7 +17,7 @@ My name is Olwethu Tshingo, a 21 year old student, currently studying 3rd year t
 
 ## Contact details:
 - Email: tshingoo@gmail.com
-- Contact Number: 060 357 0068
+- Contact Number: 062 506 6878
 
 ### Follow me on these social media platforms:
 - LinkedIn [Olwethu Tshingo](https://www.linkedin.com/in/olwethu-tshingo-7571ba333/).
