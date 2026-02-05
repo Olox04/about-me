@@ -1,5 +1,5 @@
 # Hello Viewers
-My name is Olwethu Tshingo, a 21 year old student, currently studying 3rd year towards my Diploma in IT at the CPUT. This is a walk-through what I have leant these past years at CPUT.
+My name is Olwethu Tshingo, a 21 year old, currently unemployed as I just finished my 3 years  Diploma in IT at the CPUT. This is a walk-through what I have leant these past years at CPUT.
 
 ## Skills/ Languages I know
 
